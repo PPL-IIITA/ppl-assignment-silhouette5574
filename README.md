@@ -1,23 +1,43 @@
 #ppl-assignment
+
 PIYUSH GOVIL 
 
 RIT2015084
 
 #Build System :
+
 Kali Linux 2016.2
 
 OS type - 64bit
 
+#JDK version used
+
+JDK 1.8.0_102
+
 #Command for Terminal in Linux :
-1.Open Command Prompt.                                
 
-2.Make Question1 as your current directory. 
+1. Open Command Prompt and change Directory to extraxted folder "ppl-assignment-silhouette5574".                            
 
-3.Now, type 'javac Ques1.java' to compile the file.
+2. Make Question1 as your current directory. 
 
-4.After the compilation is complete type 'java Ques1' to run the file.
+3. Now, type 'javac Ques1.java' to compile the file.
+
+4. After the compilation is complete type 'java Ques1' to run the file.
+
+
+#Command to run on windows
+
+1. Open command Prompt and change Directory to extraxted folder "ppl-assignment-silhouette5574".
+
+2. Make Question1 as your current directory. 
+
+3. Now, type 'javac Ques1.java' to compile the file.
+
+4. After the compilation is complete type 'java Ques1' to run the file.
+
 
 #Tools Used
-Doxygen for Documentation
 
-Class diagrams generated using StarUML
+1. Doxygen for Documentation
+
+2. Class diagrams generated using StarUML
