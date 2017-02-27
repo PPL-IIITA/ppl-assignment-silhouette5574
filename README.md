@@ -16,7 +16,7 @@ JDK 1.8.0_102
 
 #Command for Terminal in Linux :
 
-1. Open Command Prompt and change Directory to extraxted folder "ppl-assignment-silhouette5574".                            
+1. Open Terminal and change Directory to extracted folder "ppl-assignment-silhouette5574".                            
 
 2. Make Question1 as your current directory. 
 
@@ -27,7 +27,7 @@ JDK 1.8.0_102
 
 #Command to run on windows
 
-1. Open command Prompt and change Directory to extraxted folder "ppl-assignment-silhouette5574".
+1. Open command Prompt and change Directory to extracted folder "ppl-assignment-silhouette5574".
 
 2. Make Question1 as your current directory. 
 
